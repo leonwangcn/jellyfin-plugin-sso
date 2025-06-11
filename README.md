@@ -1,3 +1,5 @@
+```解决了原插件都要https才能授权的问题, 是在v3.5.2.4的基础上进行的构建```
+
 <h1 align="center">Jellyfin SSO Plugin</h1>
 
 <p align="center">
